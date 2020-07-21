@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi 👋, I'm Sudarshan, a Full Stack Developer ##
 
-<!--
-**sudarshan070/sudarshan070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dasjideepak)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dasjideepak/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dasjideepak/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dasjideepak)](https://twitter.com/dasjideepak)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dasjideepak/)](https://medium.com/@dasjideepak)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dasjideepak@gmail.com)
+&nbsp;
 
-Here are some ideas to get you started:
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+I have completed my three years Diploma in Information Technology from [Government Polytechnic Ghaziabad](https://gpghaziabad.ac.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Hospital Management System
+- 🌱 I’m currently learning React and Redux 
+- 👯 I’m looking to collaborate on open source project
+- 💬 Ask me about anything and everything
+- 📫 How to reach me: sindesudarshan070@gmail.com
+- 📫 Read my blogs: [https://dasjideepak.tech](https://dasjideepak.tech/)
+- 🎯 Portfolio site: [https://helpingdeepak.com](https://helpingdeepak.com/)
+
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **HTML, CSS and JavaScript**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
+- Databases/ODM: - **MySQL, MongoDB and Mongoose**
+- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
+
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=sudarshan070&hide=["issues"]&show_icons=true)
