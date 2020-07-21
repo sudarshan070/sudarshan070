@@ -11,7 +11,7 @@
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
-I have completed my three years Diploma in Information Technology from [Singhad Institue of Technology]
+I have completed my Degree in Electronic and Telecommunication from [Singhad Institue of Technology]
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -27,6 +27,6 @@ I have completed my three years Diploma in Information Technology from [Singhad 
 - Languages - **HTML, CSS and JavaScript**
 - Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
-- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
+- Tools: - **Git, Github, Developer Tool, and Babel **
 
 ![Sudarshan github stats](https://github-readme-stats.vercel.app/api?username=sudarshan070&hide=["issues"]&show_icons=true)
