@@ -18,15 +18,13 @@ I have completed my Degree in Electronic and Telecommunication from [Singhad Ins
 - 🔭 I’m currently working on Hospital Management System
 - 🌱 I’m currently learning React and Redux 
 - 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about anything and everything
 - 📫 How to reach me: sindesudarshan070@gmail.com
--
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **HTML, CSS and JavaScript**
 - Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
-- Tools: - **Git, Github, Developer Tool, and Babel **
+- Tools: - **Git, Github, Developer Tool, and Babel**
 
 ![Sudarshan github stats](https://github-readme-stats.vercel.app/api?username=sudarshan070&hide=["issues"]&show_icons=true)
