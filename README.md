@@ -15,10 +15,10 @@ I have completed my Degree in Electronic and Telecommunication from [Singhad Ins
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Hospital Management System
+- 🔭 I’m currently working on Trello clone
 - 🌱 I’m currently learning React and Redux 
 - 👯 I’m looking to collaborate on open source project
-- 📫 How to reach me: sindesudarshan070@gmail.com
+- 📫 How to reach me: shindesudarshan070@gmail.com
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
