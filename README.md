@@ -23,4 +23,7 @@ I have completed my Degree in Electronic and Telecommunication from [Singhad Ins
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **Git, Github, Developer Tool, and Babel**
 
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan070&hide_langs_below=5" alt="Sudarshan's language stats"/>
+
 ![Sudarshan github stats](https://github-readme-stats.vercel.app/api?username=sudarshan070&hide=["issues"]&show_icons=true)
