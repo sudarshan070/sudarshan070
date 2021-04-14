@@ -8,20 +8,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shindesudarshan070@gmail.com)
 &nbsp;
 
-### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
-I have completed my Degree in Electronic and Telecommunication from [Singhad Institue of Technology]
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS and JavaScript**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
-- Databases/ODM: - **MySQL, MongoDB and Mongoose**
-- Tools: - **Git, Github, Developer Tool, and Babel**
 
 
 
